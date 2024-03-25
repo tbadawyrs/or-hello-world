@@ -16,11 +16,11 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Passw0rd PleAse</b></label>
+    <label for="psw"><b>Passw0rd PleA$E</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
-    <label for="psw-repeat"><b>Repeat Password!!</b></label>
+    <label for="psw-repeat"><b>Repeat PassW0rd!!</b></label>
     <input type="password" placeholder="Repeat Password" name="psw-repeat" id="psw-repeat" required>
     <hr>
     <br>
